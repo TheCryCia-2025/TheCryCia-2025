@@ -1,11 +1,34 @@
 Tema A
 SEMASPE -> Sistema Estratégico de Melhoria e Avanço no Serviço Público de Saúde
-    - 
+    - 1, 2, 3, 4, 5, 6, 7 
 
 Tema B
 SEMPG -> Sistema da Etec Melhorado Praia Grande(NSA)
-    -
+    - 1, 2, 4, 6, 7 
 
 Tema C
-SCCPE -> Sitema Colaborativo e Corporativo de Pequenas Empresas(API)
-    -
+SCCPE -> Sistema Colaborativo e Corporativo de Pequenas Empresas(API)
+    - 1, 2, 3, 5, 6, 7
+
+
+Pontuação TEMAS
+1. Ele está relacionado com as disciplinas que você gosta?
+2. É útil para a sua área de formação?
+3. Pode trazer alguma contribuição para a sociedade?
+4. Ele já está delimitado(está bem definido)?
+5. É capaz de gerar indagações? Curiosidade.
+6. Possui referências acessíveis?
+7. Há algum orientador com o conhecimento sobre o tema?
+8. Pode ser feito em pouco tempo?
+
+Pertinência:
+A, B, C
+Relevância :
+A, C
+Viabilidade:
+A, B, C
+
+nº ODS:
+A: 3 - Boa saúde e bem-estar | 10 - Redução de desigualdades(classes sociais) | 17 - Parcerias em prol das metas
+B: 4 - Educação de Qualidade
+C: 1 - Erradicação da pobreza | 8 - Emprego digno e crescimento econômico | 10 - Redução de desigualdades(classes sociais) | 17 - Parcerias em prol das metas
