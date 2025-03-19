@@ -1,0 +1,11 @@
+Tema A
+SEMASPE -> Sistema Estratégico de Melhoria e Avanço no Serviço Público de Saúde
+    - 
+
+Tema B
+SEMPG -> Sistema da Etec Melhorado Praia Grande(NSA)
+    -
+
+Tema C
+SCCPE -> Sitema Colaborativo e Corporativo de Pequenas Empresas(API)
+    -
